@@ -3,6 +3,9 @@ StPlayground open.
 
 SmalltalkImage current aboutThisSystem.
 
-"Then go to the next lesson:"
+"Aquí va todo de Print it"
+Date today.
+Time now.
+SmalltalkImage current datedVersion.
 
 ProfStef next.
