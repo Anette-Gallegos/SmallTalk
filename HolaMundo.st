@@ -1,2 +1,2 @@
 Transcript clear.
-Transcript show: 'Hola Mundo' "Arroz con queso"
+Transcript show: 'Hola Mundo'; cr. "Arroz con queso"
